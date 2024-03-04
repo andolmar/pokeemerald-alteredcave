@@ -1,11 +1,9 @@
-# Pokémon Emerald
+## Emerald Altered Cave
 
-This is a decompilation of Pokémon Emerald.
+This modification adds every pokémon from the Hoenn dex that would otherwise be unobtainable in Emerald version without trading, hacking, or using glitches.
 
-It builds the following ROM:
+The Altering Cave is a special cave that was planned to feature a rotating roster of gen 2 pokémon encounters. However, those special encounters were supposed to be activated by a Mystery Gift event, which ended up never being released, causing the Altering Cave to default into a largely empty area with nothing but low level Zubat. Given that the pokémon supposed to be found in the Altering Cave ended up being added to the Safari Zone extension, I thought I could make use of that largely unused area to feature a different set of pokémon. The most useful set of pokémon would be those that would allow a single player to actually complete the Hoenn dex without the need to trade with other versions, making it possible to complete the game and obtain every trainer card star/level, be able to pick a Johto starter, and view the dex completion diploma without depending on any external games/devices. The National dex diploma is out of the scope of this modification.
 
-* [**pokeemerald.gba**](https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1961) `sha1: f3ae088181bf583e55daf962a92bb46f4f1d07b7`
+This modification acts simply as a special event that changes the Altering Cave, leaving the core game completely untouched for a pure vanilla experience with no added/changed evolution methods and no changes to the pokémon found elsewhere. The Altering Cave appears on Route 103 only after the player has entered the Hall of Fame, so the added encounters will not interfere with the main game.
 
-To set up the repository, see [INSTALL.md](INSTALL.md).
-
-For contacts and other pret projects, see [pret.github.io](https://pret.github.io/).
+In addition to the trade-only pokémon, I have also decided to add Feebas and Milotic to the roster due to how particularly frustrating it is to obtain those pokémon in this game.
