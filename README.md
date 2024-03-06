@@ -2,7 +2,7 @@
 
 This modification adds every pokémon from the Hoenn dex that would otherwise be unobtainable in Emerald version without trading, hacking, or using glitches.
 
-The Altering Cave is a special cave that was planned to feature a rotating roster of gen 2 pokémon encounters. However, those special encounters were supposed to be activated by a Mystery Gift event that was never released, causing the Altering Cave to default into a largely empty area with nothing but low level Zubat.
+The Altering Cave is a special cave that was planned to feature a rotating roster of gen 2 pokémon. However, those special encounters were supposed to be activated by a Mystery Gift event that was never released, causing the Altering Cave to default into a largely empty area with nothing but low level Zubat.
 
 Given that the pokémon supposed to be found in the Altering Cave ended up being added to the Safari Zone extension, I thought I could make use of that largely unused area to feature a different set of pokémon species. The most useful would be those that would allow a single player to actually complete the Hoenn dex without the need to trade with other versions, making it possible to complete the game and obtain every trainer card star/level, be able to pick a Johto starter, and view the dex completion diploma without depending on any external games/devices. The National dex diploma is out of the scope of this modification.
 
@@ -15,33 +15,35 @@ Below are the encounter details:
   <summary>Spoiler warning, don't read further if you want to find for yourself.</summary>
 
   * Walking:
-    * Lunatone
-    * Roselia
-    * Meditite
-    * Zangoose
-    * Machamp
-    * Alakazam
-    * Grovyle
-    * Combusken
+    * Lunatone - 30%
+    * Roselia - 20%
+    * Meditite - 20%
+    * Zangoose - 10%
+    * Machamp - 5%
+    * Alakazam - 5%
+    * Grovyle - 5%
+    * Combusken - 5%
         
   * Rock Smash rocks:
     * Golem
     
   * Surf:
-    * Surskit
-    * Marshtomp
+    * Surskit - 70%
+    * Marshtomp - 30%
     
   * Old Rod:
     * Feebas
     
   * Good Rod:
-    * Huntail
-    * Gorebyss
+    * Huntail - 40%
+    * Gorebyss - 60%
     
   * Super Rod:
-    * Kingdra
-    * Milotic
+    * Kingdra - 60%
+    * Milotic - 40%
 
   * Hidden Item: There is a hidden Moon Stone in one of the rocks. There are two pokémon species in the Hoenn dex that require a Moon Stone to evolve, however there is only one stone in the game, making one of the evolutions impossible to obtain without trading. This makes it possible to obtain the missing evolution at least once. The wild Lunatone also have a small chance of carrying a Moon Stone, making it possible to obtain further copies.
+  
+  * Item ball: there is an item ball that contains the Eon Ticket. Picking up the item activates the Southern Island event, allowing the player to travel to the island to obtain the missing Latios or Latias, depending on which one was picked as the roaming legendary.
 
 </details>
